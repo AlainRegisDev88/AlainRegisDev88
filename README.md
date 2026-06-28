@@ -5,37 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/AlainRegisDev88?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/AlainRegisDev88?style=social)
 
----
-
-## 🚀 About Me
-
-I'm a Computer Science student at Ashesi University passionate about leveraging **AI, data science, and software engineering** to solve real problems in African contexts. Currently building **Annotate**, a collaborative research workspace tool, while leading community initiatives through **Youths For Change**.
-
-**My Mission:** Build data-driven tools for African agriculture — focusing on crop disease detection and weather prediction for smallholder farmers in Rwanda.
-
-**Location:** Rwanda 🇷🇼 | **Working:** Remote-friendly
-
----
-
-## 💼 Current Work
-
-### 🔨 Annotate — Research Workspace Ecosystem
-*In Progress | Co-Founder, CMO & Developer*
-
-Building a comprehensive research workspace with:
-- **Browser Extension** (JavaScript) — Capture and annotate web content
-- **Web Workspace** (React) — Manage research projects and collaborate
-- **MS Word Add-In** — Integrate annotations directly into documents
-
-**Focus:** Helping students and researchers organize information better.
-
-<!-- ### 👥 Youths For Change — Co-Leader
-*Community Outreach & Digital Skills Training*
-
-Leading digital skills education with focus on:
-- Menstrual hygiene education using tech
-- Digital literacy for underserved communities
-- Workshop design and delivery -->
 
 ---
 
@@ -86,6 +55,38 @@ Leading digital skills education with focus on:
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlainRegisDev88&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## 🚀 About Me
+
+I'm a Computer Science student at Ashesi University passionate about leveraging **AI, data science, and software engineering** to solve real problems in African contexts. Currently building **Annotate**, a collaborative research workspace tool.
+
+**My Mission:** Build stuff for the better :) 
+
+**Location:** Rwanda 🇷🇼 | **Working:** Remote-friendly
+
+---
+
+## 💼 Current Work
+
+### 🔨 Annotate — Research Workspace Ecosystem
+*In Progress | Co-Founder, CMO & Developer*
+
+Building a comprehensive research workspace with:
+- **Browser Extension** (JavaScript) — Capture and annotate web content
+- **Web Workspace** (React) — Manage research projects and collaborate
+- **MS Word Add-In** — Integrate annotations directly into documents
+
+**Focus:** Helping students and researchers organize information better.
+
+<!-- ### 👥 Youths For Change — Co-Leader
+*Community Outreach & Digital Skills Training*
+
+Leading digital skills education with focus on:
+- Menstrual hygiene education using tech
+- Digital literacy for underserved communities
+- Workshop design and delivery -->
 
 ---
 
