@@ -2,8 +2,8 @@
 
 **Building tech solutions for African problems** | CS Student @ Ashesi | Founder @ Annotate | Community Leader
 
-![GitHub followers](https://img.shields.io/github/followers/regis?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/regis?style=social)
+![GitHub followers](https://img.shields.io/github/followers/AlainRegisDev88?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/AlainRegisDev88?style=social)
 
 ---
 
@@ -29,13 +29,13 @@ Building a comprehensive research workspace with:
 
 **Focus:** Helping students and researchers organize information better.
 
-### 👥 Youths For Change — Co-Leader
+<!-- ### 👥 Youths For Change — Co-Leader
 *Community Outreach & Digital Skills Training*
 
 Leading digital skills education with focus on:
 - Menstrual hygiene education using tech
 - Digital literacy for underserved communities
-- Workshop design and delivery
+- Workshop design and delivery -->
 
 ---
 
@@ -79,11 +79,11 @@ Leading digital skills education with focus on:
 
 <div align="center">
 
-![Regis's GitHub stats](https://github-readme-stats.vercel.app/api?username=regis&show_icons=true&theme=tokyonight&hide_border=true)
+![Regis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainRegisDev88&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regis&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainRegisDev88&layout=compact&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=regis&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlainRegisDev88&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -151,7 +151,7 @@ Building a comprehensive research tool that helps students and researchers:
 - 👥 Collaborate with teammates
 - 📝 Integrate with MS Word
 
-🔗 [Repository](https://github.com/regis/annotate) | 📖 [Case Study](https://regis.dev/annotate)
+🔗 [Repository](https://github.com/AlainRegisDev88/annotate) | 📖 [Case Study](https://AlainRegisDev88.dev/annotate)
 
 ### 2. **Customer Churn Analysis**
 *Python, Pandas, Scikit-learn, Jupyter*
@@ -162,7 +162,7 @@ Predictive analytics project analyzing customer behavior:
 - 📈 Actionable insights
 - 💾 GitHub repository
 
-🔗 [Repository](https://github.com/regis/customer-churn-analysis)
+🔗 [Repository](https://github.com/AlainRegisDev88/customer-churn-analysis)
 
 ### 3. **Digital Skills Workshop Materials**
 *Community Education*
@@ -183,23 +183,20 @@ I occasionally share learnings on:
 - 🌍 Building tech for African contexts
 - 💡 Leadership & community work
 
-🔗 [Portfolio & Articles](https://regis.dev)
+🔗 [Portfolio & Articles](https://AlainRegisDev88.dev)
 
 ---
 
 ## 🎓 Education
 
 **Ashesi University** | Bachelor of Science in Computer Science  
-*Expected Graduation: 2028*
+*Expected Graduation: 2029*
 
 **Coursework Highlights:**
 - Data Structures & Algorithms
 - Software Engineering Principles
-- Leadership & Social Context (SOAN111)
 - Full-stack Web Development
 - Database Design & Management
-
-**Scholarships:** MasterCard Foundation Scholar
 
 ---
 
@@ -225,11 +222,11 @@ Create **ML-powered tools for smallholder farmers:**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/regis)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/regis)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:regis@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://regis.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/regis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlainRegisDev88)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AlainRegisDev88)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:AlainRegisDev88@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://AlainRegisDev88.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlainRegisDev88)
 
 </div>
 
