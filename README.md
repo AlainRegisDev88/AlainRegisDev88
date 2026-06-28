@@ -163,7 +163,7 @@ Predictive analytics project analyzing customer behavior:
 - 📈 Actionable insights
 - 💾 GitHub repository
 
-🔗 [Repository](https://github.com/AlainRegisDev88/customer-churn-analysis)
+🔗 [Repository](https://github.com/AlainRegisDev88/FUTURE_DS_02)
 
 ### 3. **Digital Skills Workshop Materials**
 *Community Education*
@@ -172,7 +172,6 @@ Developed and delivered digital literacy curriculum:
 - 📱 Tech fundamentals
 - 💻 Online safety
 - 📧 Productivity tools
-- 🎓 Menstrual hygiene education integration
 
 ---
 
@@ -193,14 +192,14 @@ I occasionally share learnings on:
 **Ashesi University** | Bachelor of Science in Computer Science  
 *Expected Graduation: 2029*
 
-**Coursework Highlights:**
+<!-- **Coursework Highlights:**
 - Data Structures & Algorithms
 - Software Engineering Principles
 - Full-stack Web Development
-- Database Design & Management
+- Database Design & Management -->
 
 ---
-
+<!-- 
 ## 🌍 Focus Areas
 
 ### Why African Tech?
@@ -217,7 +216,7 @@ Create **ML-powered tools for smallholder farmers:**
 - 📊 Data-driven farming decisions
 - 💼 Sustainable business models
 
----
+--- -->
 
 ## 📬 Connect With Me
 
@@ -245,7 +244,7 @@ Create **ML-powered tools for smallholder farmers:**
 Feel free to reach out — I'm always happy to collaborate, discuss ideas, or help others on their tech journey!
 
 ---
-
+<!-- 
 ## 🎯 Goals for 2026
 
 - [ ] 🚀 Ship Annotate v1 (browser extension + web app)
@@ -255,7 +254,7 @@ Feel free to reach out — I'm always happy to collaborate, discuss ideas, or he
 - [ ] 📚 Contribute to 5+ open-source projects
 - [ ] 🌍 Document journey building tech for Africa
 
----
+--- -->
 
 <div align="center">
 
