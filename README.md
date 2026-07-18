@@ -9,7 +9,7 @@
 ---
 
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
 
