@@ -13,8 +13,6 @@
 
 <div align="center">
 
-![Regis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainRegisDev88&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainRegisDev88&layout=compact&theme=tokyonight&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlainRegisDev88&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
@@ -22,11 +20,9 @@
 </div>
 
 ---
-## 📈 Contribution Graph
+## Contributions
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlainRegisDev88&theme=github_dark)
----
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark)
 ---
 ## 🛠️ Tech Stack
 
