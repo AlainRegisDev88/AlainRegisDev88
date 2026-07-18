@@ -46,7 +46,7 @@
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+<!-- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) -->
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
 
 ### Tools & Platforms
@@ -54,11 +54,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<!-- 
+--- -->
 
----
 
-
-## 🚀 About Me
+<!-- ## 🚀 About Me
 
 I'm a Computer Science student at Ashesi University passionate about leveraging **AI, data science, and software engineering** to solve real problems in African contexts. Currently building **Annotate**, a collaborative research workspace tool.
 
@@ -78,7 +78,7 @@ Building a comprehensive research workspace with:
 - **Web Workspace** (React) — Manage research projects and collaborate
 - **MS Word Add-In** — Integrate annotations directly into documents
 
-**Focus:** Helping students and researchers organize information better.
+**Focus:** Helping students and researchers organize information better. -->
 
 <!-- ### 👥 Youths For Change — Co-Leader
 *Community Outreach & Digital Skills Training*
@@ -88,7 +88,7 @@ Leading digital skills education with focus on:
 - Digital literacy for underserved communities
 - Workshop design and delivery -->
 
----
+<!-- ---
 
 ## 🎯 Skills & Expertise
 
@@ -190,7 +190,7 @@ I occasionally share learnings on:
 ## 🎓 Education
 
 **Ashesi University** | Bachelor of Science in Computer Science  
-*Expected Graduation: 2029*
+*Expected Graduation: 2029* -->
 
 <!-- **Coursework Highlights:**
 - Data Structures & Algorithms
@@ -266,11 +266,11 @@ Feel free to reach out — I'm always happy to collaborate, discuss ideas, or he
 
 ---
 
-## 📄 License
+<!-- ## 📄 License
 
 Feel free to use this README as a template for your own profile! Just customize it with your info.
 
----
+--- -->
 
 <div align="center">
 
