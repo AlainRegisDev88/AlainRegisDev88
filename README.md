@@ -22,6 +22,10 @@
 </div>
 
 ---
+## 📈 Contribution Graph
+
+[![Regis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlainRegisDev88&theme=github-compact)](https://github.com/YOUR_USERNAME)
+---
 
 ## 🛠️ Tech Stack
 
