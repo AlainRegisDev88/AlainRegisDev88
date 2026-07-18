@@ -9,21 +9,19 @@
 ---
 
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
 
-![Regis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainRegisDev88&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlainRegisDev88&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainRegisDev88&layout=compact&theme=tokyonight&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlainRegisDev88&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
